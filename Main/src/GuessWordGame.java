@@ -1,3 +1,5 @@
+/*Could use recursion method!!! See instructor's example of HW*/
+
 import java.util.Scanner;
 import java.util.Random;
 
